@@ -1,53 +1,71 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
+上证
+茅台
+供销大集
 华为
 鸿蒙
-HarmonyOS
-任正非
+Harmony OS
 
-比亚迪
-王传福
+日经
+伊藤忠
+三井
+住友
+高市早苗
 
-大疆
-DJI
+美股
+特朗普
+鲍威尔
+议息会议
+
+纳斯达克
+NASDAQ
+标普
+S&P
+NVDA
+NVIDIA
+英伟达
+黄仁勋
+Jenson
+Blackwell
+
+OpenAI
+oai
+山姆·奥特曼
+Sam Altman
+anthropic
+claude
+
+Google
+Alphabet
+GOOG
+Gemini
+谷歌
+deepmind
+
+
+AMD
+苏姿丰
+
+RKLB
+火箭实验室
+rocket lab
+Peter Beck
+彼得·贝克
+electron
+电子火箭
+neutron
+中子火箭
+Launch Complex 3
+spacex
+PLTR
+帕兰蒂尔
+Alex Karp
+
+核电
+可控核聚变
+Oklo
 
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -55,23 +73,7 @@ bytedance
 微软
 Microsoft
 
-英伟达
-NVIDIA
-黄仁勋
 
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -83,31 +85,14 @@ ai
 人工智能
 
 自动驾驶
-
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
-
-科技
-
-核能
+台积电
 
 水电站
 雅鲁藏布江
 
-新质生产力
-
-月球
-登月
 火星
-宇宙
-飞船
-航空
