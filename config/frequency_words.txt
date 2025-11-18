@@ -1,8 +1,11 @@
 美股
-!纳斯达克
+纳斯达克
+nasdaq
+S&P
 标普
 罗素
 QQQ
+SQQQ
 
 VIX
 VIXY
