@@ -1,6 +1,5 @@
 美股
-特朗普
-纳斯达克
+!纳斯达克
 标普
 罗素
 QQQ
@@ -10,10 +9,12 @@ VIXY
 
 巴菲特
 伯克希尔
+Warren Buffett
 
 
 NVDA
-NVIDIA
++NVIDIA
+英伟达
 Jeson
 黄仁勋
 blackwell
@@ -21,32 +22,35 @@ cuda
 
 RKLB
 Peter Beck
-rocket+lab
-neutron+rocket
+rocket lab
+
+neutron
++rocket
 中子火箭
 
 PLTR
-Palantir
++Palantir
 Alex Karp
 
 
 Nikkei
 日经
+
 伊藤忠
 三井
 住友
 村田制造所
 
-
-可控+核聚变
+核聚变
 核电
 oklo
 
-openai
++openai
 山姆奥特曼
 Sam Altman
 gpt
 sora
+
 
 claude
 anthropic
@@ -76,8 +80,7 @@ ipad
 mac
 ios
 
-ai
-!gai
+
 
 台积电
 芯片
