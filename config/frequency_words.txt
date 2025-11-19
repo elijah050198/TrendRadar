@@ -48,6 +48,15 @@ Nikkei
 核电
 oklo
 
+托卡马克
+REBCO
+Tokamak
+Nb3Sn
+D-T
+Stellarator
+ICF
+Air Liquide
+
 +openai
 山姆奥特曼
 Sam Altman
